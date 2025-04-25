@@ -1,0 +1,26 @@
+body {
+    background: hsl(296, 85%, 84%);
+}
+h1 { 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: brown;
+    color: aquamarine;
+    text-align: center ;
+}
+p { 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: grey;
+    text-align: justify;
+}
+footer {
+font-family: 'Times New Roman', Times, serif;
+color: #010101
+}
+.teste {
+    color: black;
+    background: rgb(105, 105, 228);
+}
+.nome {
+    color: black;
+    background: rgb(105, 105, 228);
+}
